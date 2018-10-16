@@ -12,35 +12,7 @@ body {
 
 }
 
-/* #divDisplayItemElementContainer { */
-    /* margin: 20px 20px; */
-/* } */
-
-/* #divItems { */
-    /* display: flex; */
-/* } */
-
-/* #divDisplayItem { */
-    /* background: lightseagreen; */
-    /* display: flex; */
-/* } */
-
 .divDisplayItemElement{
     flex: 1;
 }
-
-
-/* @media (min-width: 490px) { */
-    /* #divItems { */
-        /* display: flex; */
-        
-        /* flex-wrap: wrap; */
-    /* } */
-
-    /* #divDisplayItem { */
-        /* justify-content: center; */
-
-    /* } */
-
-/* } */
 
